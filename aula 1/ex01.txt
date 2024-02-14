@@ -1,0 +1,10 @@
+1. Sair de casa
+2. Andar até o ponto de ônibus
+3. Fazer sinal para o ônibus
+4. Subir no ônibus
+5. Pagar a passagem
+6. Se tiver algum lugar livre, sentar
+7. Se não, ficar em pé
+8. Puxar a corda quando chegar no portão 1 ou 2
+9. Descer do ônibus
+10. Andar para o Mirante ou ICEN
