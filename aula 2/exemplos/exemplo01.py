@@ -1,14 +1,14 @@
-x = 5
-y = 10
+a = 5
+b = 10
 
 # Operador AND
-if x > 0 and y > 0:
-    print("x e y são positivos")
+x = a > 0 and b > 0 # Verdadeiro, pois ambos são maiores que zero
+print(x)
 
 # Operador OR
-if x < 0 or y < 0:
-    print("Pelo menos um dos números é negativo")
+y = a > 0 or b < 0 # Verdadeiro, pois pelo menos um dos números é maior que zero
+print(y)
 
 # Operador NOT
-if not x == 0:
-    print("x é diferente de zero")
+z = not x == 0 # A afirmação "x == 0" é falsa, pois x é diferente de zero. Porém, o operador NOT inverte o seu valor lógico, retornando TRUE 
+print(z)
