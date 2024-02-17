@@ -1,0 +1,10 @@
+1. Pegar o ovo, a frigideira, óleo e sal
+2. Colocar o óleo na frigideira
+3. Acender o fogo
+4. Colocar a frigideira no fogo
+5. Esperar o óleo esquentar
+6. Quebrar e colocar o ovo na frigideira
+7. Colocar o sal
+8. Se estiver pronto, retirar o ovo
+9. Se não, esperar mais um pouco
+10. Desligar o fogo
